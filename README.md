@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 ## I'm Prasad Kumar
 
-I am a _programmer_, _full-stack developer_. This GitHub page has many projects of HTML, CSS, JS, React, Python, Web Development, and many other topics. I am very much pleased to have you here on my GitHub page and using this contents you can harness your unlimited potential to become a programmer, developer. To get uptodate about the contents I create you may follow me on GitHub, LinkedIn.  
+I am a _programmer_, _full-stack developer_. This GitHub page has many projects of HTML, CSS, JS, React, Python, Web Development, and many other topics. I am very much pleased to have you here on my GitHub page and using this projects or contents. To get uptodate about the contents or projects I create you may follow me on GitHub, LinkedIn.  
 
 ![](https://komarev.com/ghpvc/?username=prasad-kumar&color=green)
 
 <div>
-<a href="https://www.linkedin.com/in/asabeneh" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
+<a href="https://www.linkedin.com/in/prasad-kumar-a77650142/" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
 
 ## Technologies which I use:
 
